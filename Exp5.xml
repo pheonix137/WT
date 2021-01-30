@@ -1,0 +1,33 @@
+<?xml-stylesheet type="text/css" href="prog5.css" ?>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<h1>STUDENT DESCRIPTION</h1>
+		<students>
+			<student>
+				<USN>usn:4al17cs085</USN>
+				<NAME>name:Atish</NAME>
+				<COLLEGE>college:aiet</COLLEGE>
+				<BRANCH>branch:cse</BRANCH>
+				<YEAR>year:2017</YEAR>
+				<e-mail>email:atishshanbhag03@gmail.com</e-mail>
+			</student>
+			<student>
+				<USN>usn:4al17cs117</USN>
+				<NAME>name:Sinchana</NAME>
+				<COLLEGE>college:aiet</COLLEGE>
+				<BRANCH>branch:cse</BRANCH>
+				<YEAR>year:2017</YEAR>
+				<e-mail>email:sinchanago1999@gmail.com</e-mail>
+			</student>
+			<student>
+				<USN>usn:4al17cs085</USN>
+				<NAME>name:Ahana</NAME>
+				<COLLEGE>college:aiet</COLLEGE>
+				<BRANCH>branch:cse</BRANCH>
+				<YEAR>year:2017</YEAR>
+				<e-mail>email:ahanashanbhag03@gmail.com</e-mail>
+			</student>
+		</students>
+	</head>
+</html>

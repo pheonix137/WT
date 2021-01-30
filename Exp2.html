@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <style>
+        table{margin:auto;}
+        td,th,table{
+            border:2px solid black;
+            border-collapse:collapse;
+            text-align:center;
+            width:20px;
+            background-color: powderblue;
+        }
+    </style>
+    <script type="text/javascript">
+        var n = parseInt(prompt("Enter a number",0));
+        document.write("<table>");
+        document.write("<tr><th>number</th><th>Square</th><th>Cube</th></tr>");
+        for(var a=0;a<=n;a++)
+        {
+            document.write("<tr>");
+             document.write("<td>",a,"</td>");
+              document.write("<td>",a*a,"</td>");
+               document.write("<td>",a*a*a,"</td>");
+                document.write("</tr>");
+        }
+        document.write("</table>");
+    </script>
+</head>
+</html>
